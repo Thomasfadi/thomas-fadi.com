@@ -359,12 +359,12 @@ transform: scale(1.1);
     align-items: center;
     display: block;
     text-decoration: none;
-    color: #000000;
+    color: #0056c7;
 }
 .mail:hover{
     color: #0073ff;
-    transform: scale(1.1);
-    transition: 0.5s ease;
+    transform: scale(1.2);
+    transition: 1s ease;
 }
 .co-icon a{
     color: rgb(0, 0, 0);
