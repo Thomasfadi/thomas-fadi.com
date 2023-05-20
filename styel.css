@@ -363,7 +363,7 @@ transform: scale(1.1);
 }
 .mail:hover{
     color: #0073ff;
-    transform: scale(1.2);
+    transform: scale(1.1);
     transition: 1s ease;
 }
 .co-icon a{
